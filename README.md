@@ -28,6 +28,9 @@ https://www.instagram.com/aws.security.argentina/
 ### Instragram del AWS Security Users Group LatAm
 https://www.instagram.com/awssecuritylatam/
 
+### Slack de AWS Security Users Group LatAm
+https://join.slack.com/t/awssecuritycommunity/shared_invite/zt-2j1qatdl1-ahEyljziW3lzevreWr3w7Q
+
 ## Otras comunidades en Argentina
 
 ### AWS Girls Argentina
