@@ -10,7 +10,7 @@ Enlaces útiles:
 ### Formulario para realizar pedidos/sugerencias sobre los servicios de Seguridad de AWS
 https://forms.gle/BTx3pHg3jabFohV9A
 
-## AWS Security Maturity Model
+### AWS Security Maturity Model
 https://maturitymodel.security.aws.dev/en/model/
 
 ### Meetup del grupo de AWS Security Users Group Argentina
